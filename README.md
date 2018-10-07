@@ -52,5 +52,6 @@ Read blogs,Reddit,follow researchers on Twitter
 + [thegradient](https://thegradient.pub/)
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
++ [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ### Feel free to make Pull Requests stating why that partciluar resource should be added.
