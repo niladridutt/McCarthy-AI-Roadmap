@@ -18,11 +18,13 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 + [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) or
 + [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 
-Note : Implement Machine Learning models from scratch using Python
+Note :
++ Implement Machine Learning models from scratch using Python
++ Practice on Kaggle to get your skiills ---> :sunglasses:
 
 ## Machine Learning Books for reference
 + [Introduction to Statstical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
-+ [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
++ [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) (A little more in-depth than ISLR)
 + [Pattern Recognition And Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 ## Deep Learning MOOCs
@@ -55,4 +57,4 @@ Read blogs,Reddit,follow researchers on Twitter
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
 + [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-### Feel free to make Pull Requests stating why that partciluar resource should be added.
+#### Feel free to make Pull Requests stating why that particular resource should be added.
