@@ -20,6 +20,7 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 
 Note :
 + Implement Machine Learning models from scratch using Python
++ Once you're comfortable implementing models from scratch, learn scikit-learn and compare performance
 + Practice on Kaggle to get your skiills ---> :sunglasses:
 
 ## Machine Learning Books for reference
