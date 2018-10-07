@@ -21,6 +21,7 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 Note : Implement Machine Learning models from scratch using Python
 
 ## Machine Learning Books for reference
++ [Introduction to Statstical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
 + [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 + [Pattern Recognition And Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
