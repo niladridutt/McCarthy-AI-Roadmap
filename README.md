@@ -1,12 +1,22 @@
 # Minsky-AI-Roadmap
 Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech.io/home)
 
+## Data Structures and Algorithms
++ [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
++ [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
++ [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) 
++ Learn any one programming language really well and compete on Codechef, Hackerrank, HackerEarth,etc
+
 ## Data Science Stack
 Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com/
 + Python
 + NumPy
 + Pandas
 + Matplotlib and Seaborn
+
+## Things you should know
++ Linux
++ Git
 
 ## Mathematics for Machine Learning
 + [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528) - Quick refresher
@@ -47,15 +57,17 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
 
 ## Reinforcement Learning Books
-+ [Reinforcement Learning – An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
++ [Reinforcement Learning – An Introduction](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
-## Miscellaneous
-Read blogs,Reddit,follow researchers on Twitter
+## Read blogs,Reddit,follow researchers on Twitter
 + [Towards Data Science](https://towardsdatascience.com/)
 + [montreal.ai](https://montrealartificialintelligence.com/)
 + [thegradient](https://thegradient.pub/)
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
 + [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+## Miscellaneous
++ Learn Flask or Django and make a complete project ---> deploy in on the web
 
 #### Feel free to make Pull Requests stating why that particular resource should be added.
