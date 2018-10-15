@@ -2,7 +2,7 @@
 Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech.io/home)
 
 ## Data Structures and Algorithms
-+ [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
++ [Stanford Algorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
 + [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 + [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) 
 + Learn any one programming language really well and compete on Codechef, Hackerrank, HackerEarth,etc
@@ -25,7 +25,8 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 
 ## Machine Learning/AI MOOCs
 + [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
-+ [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) or
++ [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) 
+**OR**
 + [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 
 Note :
@@ -59,7 +60,7 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 ## Reinforcement Learning Books
 + [Reinforcement Learning – An Introduction](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
-## Read blogs, Reddit, follow researchers on Twitter
+## Read blogs,Reddit,follow researchers on Twitter
 + [Towards Data Science](https://towardsdatascience.com/)
 + [montreal.ai](https://montrealartificialintelligence.com/)
 + [thegradient](https://thegradient.pub/)
