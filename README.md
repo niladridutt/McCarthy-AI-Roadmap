@@ -59,7 +59,7 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 ## Reinforcement Learning Books
 + [Reinforcement Learning – An Introduction](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
-## Read blogs,Reddit,follow researchers on Twitter
+## Read blogs, Reddit, follow researchers on Twitter
 + [Towards Data Science](https://towardsdatascience.com/)
 + [montreal.ai](https://montrealartificialintelligence.com/)
 + [thegradient](https://thegradient.pub/)
