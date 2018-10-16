@@ -16,7 +16,8 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 
 ## Things you should know
 + Linux
-+ Git
++ [Bash Cheatsheet](https://devhints.io/bash)
++ [Git](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) - Introduction
 
 ## Mathematics for Machine Learning
 + [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528) - Quick refresher
