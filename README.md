@@ -57,6 +57,10 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 + [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
 
+## Reinforcement Learning - Libraries
++ [TensorLayer](https://github.com/tensorlayer/tensorlayer)
++ [Keras-RL](https://github.com/keras-rl/keras-rl)
+
 ## Reinforcement Learning Books
 + [Reinforcement Learning – An Introduction](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
