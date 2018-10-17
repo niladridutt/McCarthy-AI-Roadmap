@@ -2,7 +2,7 @@
 Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech.io/home)
 
 ## Data Structures and Algorithms
-+ [Stanford Algorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
++ [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
 + [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 + [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) 
 + Learn any one programming language really well and compete on Codechef, Hackerrank, HackerEarth,etc
@@ -16,7 +16,8 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 
 ## Things you should know
 + Linux
-+ Git
++ [Bash Cheatsheet](https://devhints.io/bash)
++ [Git](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) - Introduction
 
 ## Mathematics for Machine Learning
 + [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528) - Quick refresher
@@ -25,8 +26,7 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 
 ## Machine Learning/AI MOOCs
 + [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
-+ [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) 
-**OR**
++ [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) or
 + [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 
 Note :
@@ -53,15 +53,24 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 ## Deep Learning Books
 + [Deep Learning Book](http://www.deeplearningbook.org/)
 
+## Natural Language Processing
++ [Natural Language Processing by National Research University Higher School of Economics](https://www.coursera.org/learn/language-processing)
++ [Stanford University's CS224n](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
 ## Reinforcement Learning MOOCs
 + [David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 + [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
 
+## Reinforcement Learning - Libraries
++ [TensorLayer](https://github.com/tensorlayer/tensorlayer)
++ [Keras-RL](https://github.com/keras-rl/keras-rl)
+
 ## Reinforcement Learning Books
 + [Reinforcement Learning – An Introduction](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
-## Read blogs,Reddit,follow researchers on Twitter
+## Read blogs, Reddit, follow researchers on Twitter
 + [Towards Data Science](https://towardsdatascience.com/)
++ [Sebastian Ruder](http://ruder.io/)
 + [montreal.ai](https://montrealartificialintelligence.com/)
 + [thegradient](https://thegradient.pub/)
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
