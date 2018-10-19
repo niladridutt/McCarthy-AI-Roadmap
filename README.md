@@ -53,6 +53,10 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 ## Deep Learning Books
 + [Deep Learning Book](http://www.deeplearningbook.org/)
 
+## Natural Language Processing
++ [Natural Language Processing by National Research University Higher School of Economics](https://www.coursera.org/learn/language-processing)
++ [Stanford University's CS224n](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
 ## Reinforcement Learning MOOCs
 + [David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 + [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
@@ -66,6 +70,7 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 
 ## Read blogs, Reddit, follow researchers on Twitter
 + [Towards Data Science](https://towardsdatascience.com/)
++ [Sebastian Ruder](http://ruder.io/)
 + [montreal.ai](https://montrealartificialintelligence.com/)
 + [thegradient](https://thegradient.pub/)
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
