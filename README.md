@@ -2,10 +2,11 @@
 Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech.io/home)
 
 ## Data Structures and Algorithms
-+ [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
++ [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms)
 + [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-+ [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) 
-+ Learn any one programming language really well and compete on Codechef, Hackerrank, HackerEarth,etc
++ [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
++ [CodeChef Certified Data Structure & Algorithms Programme](https://www.codechef.com/certification/about)
++ Learn any one programming language really well (preferably c++) and compete on Codechef, Hackerrank, HackerEarth,etc
 
 ## Data Science Stack
 Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com/
@@ -21,13 +22,14 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 
 ## Mathematics for Machine Learning
 + [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528) - Quick refresher
-+ [Mathematics for Machine Learning](https://mml-book.github.io/) - Intermediate 
++ [Mathematics for Machine Learning](https://mml-book.github.io/) - Intermediate
 + [Numerical Algorithms](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Advanced
 
 ## Machine Learning/AI MOOCs
 + [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
-+ [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) or
++ [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 + [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
++ [CalTech CS-156](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
 Note :
 + Implement Machine Learning models from scratch using Python
@@ -44,7 +46,7 @@ Note :
 + [fast.ai](http://www.fast.ai/)
 
 ## Deep Learning Frameworks
-+ Keras - To get started
++ [Keras](https://keras.io/) - To get started
 + [PyTorch](https://pytorch.org/tutorials/) or
 + [TensorFlow](https://www.tensorflow.org/tutorials/)
 
@@ -60,6 +62,7 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 ## Reinforcement Learning MOOCs
 + [David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 + [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
++ [Udacity Reinforcement Learning by Georgia Tech](https://in.udacity.com/course/reinforcement-learning--ud600)
 
 ## Reinforcement Learning - Libraries
 + [TensorLayer](https://github.com/tensorlayer/tensorlayer)
@@ -75,6 +78,7 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [thegradient](https://thegradient.pub/)
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
++ [r/MachinesLearn](https://www.reddit.com/r/MachinesLearn/)
 + [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## Miscellaneous
