@@ -53,13 +53,15 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 ## Deep Learning Books
 + [Deep Learning Book](http://www.deeplearningbook.org/)
 
-## Natural Language Processing
+## Natural Language Processing 
 + [Natural Language Processing by National Research University Higher School of Economics](https://www.coursera.org/learn/language-processing)
 + [Stanford University's CS224n](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
++ [NLP course by Yandex Data School](https://github.com/yandexdataschool/nlp_course)
 
-## Reinforcement Learning MOOCs
+## Reinforcement Learning Tutorials
 + [David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 + [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
++ [Practial RL - Yandex Data School](https://github.com/yandexdataschool/Practical_RL)
 
 ## Reinforcement Learning - Libraries
 + [TensorLayer](https://github.com/tensorlayer/tensorlayer)
