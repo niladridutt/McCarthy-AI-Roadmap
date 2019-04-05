@@ -42,6 +42,7 @@ Note :
 ## Deep Learning MOOCs
 + [deeplearning.ai - Coursera](https://www.coursera.org/specializations/deep-learning)
 + [fast.ai](http://www.fast.ai/)
++ [Intro to TensorFlow 2.0 for Deep Learning by Tensorflow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ## Deep Learning Frameworks
 + Keras - To get started
