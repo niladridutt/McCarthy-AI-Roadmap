@@ -28,6 +28,7 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 + [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
 + [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) or
 + [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
++ [Machine Learning by Shaurya Bhandari](https://github.com/ShauryaBhandari/Machine-Learning)
 
 Note :
 + Implement Machine Learning models from scratch using Python
