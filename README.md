@@ -10,7 +10,8 @@ Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech
 ## Data Science Stack
 Best places to learn - 
 https://www.python-course.eu/
-Learning Python 3 The Hard Way
+[Learning Python 3 The Hard Way](https://www.pdfdrive.com/learn-more-python-3-the-hard-way-the-next-step-for-new-python-programmers-d158174780.html)
+
 + Python
 + NumPy
 + Pandas
