@@ -8,7 +8,9 @@ Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech
 + Learn any one programming language really well and compete on Codechef, Hackerrank, HackerEarth,etc
 
 ## Data Science Stack
-Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com/
+Best places to learn - 
+https://www.python-course.eu/
+[Learning Python 3 The Hard Way](
 + Python
 + NumPy
 + Pandas
