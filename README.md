@@ -8,7 +8,9 @@ Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech
 + Learn any one programming language really well and compete on Codechef, Hackerrank, HackerEarth,etc
 
 ## Data Science Stack
-Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com/
+Best places to learn - 
++ [Python - NumPy, Matplotlib and Scipy](https://www.python-course.eu/)
++ [Learning Python 3 The Hard Way](https://www.pdfdrive.com/learn-more-python-3-the-hard-way-the-next-step-for-new-python-programmers-d158174780.html)
 + Python
 + NumPy
 + Pandas
@@ -28,6 +30,7 @@ Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com
 + [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
 + [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) or
 + [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
++ [Machine Learning by Shaurya Bhandari](https://github.com/ShauryaBhandari/Machine-Learning)
 
 Note :
 + Implement Machine Learning models from scratch using Python
