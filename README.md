@@ -1,4 +1,4 @@
-# McCarthy-Lab-Roadmap
+# McCarthy Lab Roadmap
 Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
 
 ## Data Structures and Algorithms
