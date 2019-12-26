@@ -1,5 +1,5 @@
 # McCarthy Lab Roadmap
-Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
+Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/)
 
 ## Data Structures and Algorithms
 + [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
