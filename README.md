@@ -1,5 +1,5 @@
-# Minsky-AI-Roadmap
-Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech.io/home)
+# McCarthy Lab Roadmap
+Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/)
 
 ## Data Structures and Algorithms
 + [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
@@ -27,7 +27,8 @@ Best places to learn -
 + [Numerical Algorithms](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Advanced
 
 ## Machine Learning/AI MOOCs
-+ [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
++ [Machine Learning - Coursera (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
++ [Machine Learning - Coursera (University of Washington)](https://www.coursera.org/specializations/machine-learning)
 + [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/fa18/) or
 + [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 + [Machine Learning by Shaurya Bhandari](https://github.com/ShauryaBhandari/Machine-Learning)
